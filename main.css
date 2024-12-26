@@ -95,7 +95,7 @@ html, body {
     overflow: hidden;
 }
 
-.paperHeart {
+.paper-Heart {
     position: absolute;
     height: 100px;
     top: 80%;
@@ -104,27 +104,27 @@ html, body {
     animation: hiddenHeart 3.1s linear forwards,flyHeart 4s ease-in-out calc(var(--time) + 3.1s) infinite;
 }
 
-.paperHeart1 {
+.paper-Heart1 {
     left: 50px;
 }
 
-.paperHeart2 {
+.paper-Heart2 {
     left: 250px;
 }
 
-.paperHeart3 {
+.paper-Heart3 {
     left: 500px;
 }
 
-.paperHeart4 {
+.paper-Heart4 {
     left: 800px;
 }
 
-.paperHeart5 {
+.paper-Heart5 {
     left: 1100px;
 }
 
-.paperHeart6 {
+.paper-Heart6 {
     left: 1400px;
 }
 
