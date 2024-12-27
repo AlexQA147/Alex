@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent =" Kkk Dear người nhận quà của t. Hy vọng rằng b sẽ có một mùa Christmas thật vui vẻ nha. Hope that b sẽ thích món quà của t và mong rằng năm sau mình vẫn sẽ chơi trò này cùng nhau nha kkk. Đừng để mấy đứa kia biết nha kkkk💕"
+var letterContent =" Kkk Dear my secret recipient. Hy vọng rằng b sẽ có một mùa Christmas thật vui vẻ nha. Hope that b sẽ thích món quà của t nha kkk và mong rằng năm sau mình vẫn sẽ chơi trò này cùng nhau nha kkk. Me ri Chịt Mợt. Đừng để mấy đứa kia biết nha kkkk💕"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
